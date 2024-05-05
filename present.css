@@ -159,7 +159,7 @@ body {
   transform: translateZ(-2px) translateY(50px);
 }
 .present-box > .side.top .to:after {
-  content: "Chuc mung 8-3";
+  content: "Chúc mừng 8-3";
   display: inline-block;
   transform: rotateY(180deg);
   color: #990000;

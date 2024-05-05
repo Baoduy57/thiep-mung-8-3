@@ -1,4 +1,4 @@
-var to = "Gia Han!";
+var to = "Gia Hân!";
 var gift_url = "https://www.facebook.com/sarang.nguyen.7";
 var gift_image_url = "image/2.jpg";
 
